@@ -1,5 +1,5 @@
 <project name="ACSAuthFilter" basedir="." default="package">
-
+<!-- test -->
     <property name="src.dir"     value="src"/>
 
     <property name="build.dir"   value="build"/>
