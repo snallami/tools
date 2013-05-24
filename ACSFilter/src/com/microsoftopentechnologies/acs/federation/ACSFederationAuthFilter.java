@@ -14,7 +14,9 @@
  limitations under the License.
  */
  package com.microsoftopentechnologies.acs.federation; 
-
+/*
+* Checd from vm1
+*/
 import java.io.BufferedInputStream;
 import java.io.ByteArrayInputStream;
 import java.io.File;
