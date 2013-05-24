@@ -27,7 +27,7 @@ import com.microsoftopentechnologies.acs.federation.ACSFederationAuthFilter;
 import com.microsoftopentechnologies.acs.federation.HttpServletRequestDetails;
 import com.microsoftopentechnologies.acs.saml.SAMLAssertion;
 
-/* ACS auth filetr*/
+/* ACS auth filetr. this is from vm1*/
 public class ACSFederationAuthFilterTest {
 
 	private static DummyHTTPServletRequest oldTestRequest;
