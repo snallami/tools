@@ -1,3 +1,6 @@
+/**
+*Added a test comment
+*/
 package com.microsoftopentechnologies.acs.federation;
 
 import static org.junit.Assert.assertEquals;
