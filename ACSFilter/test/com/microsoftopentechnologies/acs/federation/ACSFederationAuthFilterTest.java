@@ -26,6 +26,7 @@ import org.junit.Test;
 import com.microsoftopentechnologies.acs.federation.ACSFederationAuthFilter;
 import com.microsoftopentechnologies.acs.federation.HttpServletRequestDetails;
 import com.microsoftopentechnologies.acs.saml.SAMLAssertion;
+import com.microsoftopentechnologies.acs.saml.SAMLAssertion;
 
 /* ACS auth filetr. this is from vm1 - c1*/
 public class ACSFederationAuthFilterTest {
